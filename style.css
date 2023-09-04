@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+    background-image: url(abc1.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.main_div{
+    font-family: Algerian;
+    color: wheat;
+}
+.box {
+    height: 150px;
+    margin: 20px;
+    padding: 1rem;
+    text-align: center;
+    background-color: #e39999;
+    border: 2px solid;
+    border-radius: 14px;
+    width: 150px;
+    font-size: 36px;
+    box-shadow: 8px 8px 8px 6px burlywood;
+}
+.txt_btm {
+    display: block;
+    color: white;
+    font-weight: 800;
+}
+.box:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 6px 6px 6px 6px antiquewhite;
+}
+
+.bx_cntnr{
+    text-align: center;
+    margin-top: 5rem;
+
+}
+.bass_drum{
+    background-image: url(./Images/bass_drum.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cymbal{
+    background-image: url(./Images/cymbal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bongo{
+    background-image: url(./Images/bongo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bass_guitar{
+    background-image: url(./Images/bass_guitar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.trumpet{
+    background-image: url(./Images/trumpet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.harmonica{
+    background-image: url(./Images/harmonica.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.guitar_stroke{
+    background-image: url(./Images/guitar_stroke.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.snare{
+    background-image: url(./Images/snare.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.piano{
+    background-image: url(./Images/piano.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.harp{
+    background-image: url(./Images/harp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.creator {
+    color: white;
+    font-weight: 600;
+}
+button{
+    font-size: 19px !important;
+    font-weight: 800;
+}
